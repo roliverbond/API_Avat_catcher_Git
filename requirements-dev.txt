@@ -1,0 +1,21 @@
+# Flake8 dependencies
+flake8==4.0.1
+mccabe==0.6.1
+pycodestyle==2.8.0
+pyflakes==2.4.0
+
+# Pytest dependencies
+attrs==21.2.0
+iniconfig==1.1.1
+packaging==21.0
+pluggy==1.0.0
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.5
+toml==0.10.2
+
+# pytest-cov section
+coverage==6.0.2
+pytest-cov==3.0.0
+
+-r requirements.txt
